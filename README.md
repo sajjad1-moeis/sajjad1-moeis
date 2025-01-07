@@ -1,6 +1,6 @@
 ## I'm Shema Elysee  
   
-
+<img />
 
 ## 🌐 Contato -- _Contact_
 <div> 
@@ -30,6 +30,7 @@ I am a passionate and eager person to interact with different people. I have mor
 ## Github Stats  
 <table><tr><td valign="top" width="60%">
 
+<img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" align="left" style="width: 100%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ikuzweshema&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
