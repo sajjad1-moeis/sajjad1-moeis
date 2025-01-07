@@ -29,7 +29,4 @@ I am a passionate and eager person to interact with different people. I have mor
 <br/>  
 
 
-## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ikuzweshema&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 100%" />
 
