@@ -1,5 +1,4 @@
 ## I'm Shema Elysee  
-  <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%;height:500px;margin:auto" align="center" />
 
 
 ## 🌐 Contato -- _Contact_
@@ -10,6 +9,7 @@
   <a href="https://wa.me/5519999255022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato WhatsApp"></a>
 </div>
  
+  <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%"/>
   
 
 
