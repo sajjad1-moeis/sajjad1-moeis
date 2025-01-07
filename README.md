@@ -27,7 +27,7 @@
 
 
 ### About me!  
-FullStack Website Development In NextJs And Typescript
+I am a passionate and eager person to interact with different people. I have more than 2 years of experience in programming, as well as website design and internet infrastructure. I have the ability to interact positively with customers, understand their needs, and provide suggestions for new products and services.
 <br/>  
 
 ## 🛠️ Languages and Tools
