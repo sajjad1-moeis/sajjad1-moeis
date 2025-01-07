@@ -1,5 +1,5 @@
 ## I'm Shema Elysee  
-  <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%;height:500px" />
+  <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%;height:500px;margin:auto" />
 
 
 ## 🌐 Contato -- _Contact_
