@@ -16,11 +16,16 @@
 I am a passionate and eager person to interact with different people. I have more than 2 years of experience in programming, as well as website design and internet infrastructure. I have the ability to interact positively with customers, understand their needs, and provide suggestions for new products and services.
 <br/>  
 
-## 🛠️ Languages and Tools
-
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,postgres,mongodb,git,github,java,python,docker,aws)
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajjad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajjad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sajjad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br/>
  
   <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%"/>
