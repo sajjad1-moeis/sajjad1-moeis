@@ -22,7 +22,6 @@ I am a passionate and eager person to interact with different people. I have mor
 
 <br/>
  
-  <img src="https://raw.githubusercontent.com/AlirezaAbd-dev/AlirezaAbd-dev/master/images/dark-programmer.gif" style="width: 100%"/>
   <img src="https://github.com/SasadaSaumya/Adyapana-Student-Management-System/raw/main/src/image/GitImg/readmeSnake/github-contribution-grid-snake.svg" style="width: 100%"/>
 
 <br/>  
