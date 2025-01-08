@@ -1,5 +1,5 @@
 
-### <h1 align="center">Hi 👋, I'm Sajjad</h1>
+### Hi 👋, I'm Sajjad
 <br/>  
 
  
